@@ -1,21 +1,28 @@
 body{
     font-family: arial, sans-serif;
     margin: 20px;
+    background-color: #f9e6e6; 
+    
 }
 h1{
     color: #723f3f;
-    margin-left: 80px;
+    justify-content: center;
+    align-items: center;
 }
- 
+div{
+    color: #723f3f;
+    margin-left: 800px;
+    border-radius: 100px;
+}
 button{
     margin-left: 10px;
     padding: 5px 10px;
     background-color: #e0c5c5;
-
+    border-radius: 10px;
+    margin-bottom: 40px;
 }
  
 ul{
-    list-style-type: none;
     padding: 0;
 }
 li{
@@ -24,4 +31,3 @@ li{
     padding: 10px;
     border-radius: 5px;
 }
-
