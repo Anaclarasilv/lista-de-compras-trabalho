@@ -4,11 +4,13 @@ body{
 }
 h1{
     color: #723f3f;
+    margin-left: 100px;
 }
  
 button{
     margin-left: 10px;
     padding: 5px 10px;
+    background-color: #e0c5c5;
 
 }
  
@@ -22,3 +24,4 @@ li{
     padding: 10px;
     border-radius: 5px;
 }
+
